@@ -16,6 +16,16 @@ $(document).ready(function () {
     }
     return color;
 }
-    
-    
+
+//// Added jQuery UI ////
+   $('.box').click(function() {    // click an element with 'box' class
+       $(this).effect('bounce', {times:3}, 300);   // will bounce the box as it changes color
+   });
+   
+////
+  
+  
+  
+  
+  
 });
