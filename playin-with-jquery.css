@@ -1,0 +1,31 @@
+.header {
+    width: 80%;
+    font-family: sans-serif;
+    text-align: center;
+    margin: 0 auto;
+    
+}
+
+#title {
+    font-size: 3em;
+    line-height: 30px;
+}
+
+
+p {
+    text-align: left;
+    font-weight: 100;
+    font-size: 1.4em;
+    line-height: 30px;
+}
+
+.box {
+    width: 10%;
+    height: 18vh;
+    background-color: dodgerblue;
+    float: left; 
+}
+
+.style1 {
+    background-color: orange;
+}
